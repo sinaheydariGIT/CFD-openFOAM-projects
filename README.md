@@ -1,5 +1,6 @@
 # CFD-openFOAM-projects
-My CFD projects simulated using OpenFOAM solvers. 
+My CFD projects simulated using OpenFOAM solvers.  OpenFOAM is an open source CFD software programmed in C++ and developed primarily by OpenCFD Ltd.   
+
 The three projects so far are all multiphase flow problems (water + air) solved using the interFoam solvers in OpenFOAM.   
 Snapshots showing the geometry of the problem and the flow fields at every save time steps are provided in /snapshots fore each project.   
 
